@@ -1,0 +1,4 @@
+keysinassociation
+=================
+
+Rails model 
